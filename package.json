@@ -8,7 +8,7 @@
     "dev": "node build/dev-server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "yilianyoumeng <1329395802@qq.com>",
   "license": "ISC",
   "dependencies": {
     "node-sass": "^4.5.2",
