@@ -1,8 +1,6 @@
-you may have problem with sass-node,please try vpn if you are in china.
-
-Build Setup
-
-```
+# 组件截图
+![截图] (https://github.com/yilianyoumeng/vue-select/blob/master/des.jpg)
+# 安装及使用
 # install dependencies
 npm install
 
@@ -12,10 +10,3 @@ npm run dev
 # build for production with minification
 npm run build
 
-```
-### props
-```
-  @param value {String} current select value or init value
-  @param data {Array} loop array value
-  @param type {String} 'cycle' ,default 'line'
-```
